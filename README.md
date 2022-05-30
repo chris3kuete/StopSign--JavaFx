@@ -1,7 +1,7 @@
 # StopSign--JavaFx
 This program design a stop sign
 
-The program creates a scene where the stop sign will reside,set the name and dimension of the scene
+The program creates a scene where the stop sign will reside,set the name and dimension of the scene.
 The program creates a class called "MyPolygon" that extends the StackPane,then creates a method called "paint()" in the class "MyPoligpon"
 In "paint()":
 -we create a polygon, fill it with "RED" and set the Stroke to Black
